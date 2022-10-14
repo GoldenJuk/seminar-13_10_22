@@ -9,6 +9,7 @@ int sqrnumber = number * number;
 
 Console.WriteLine("Квадрат Вашего числа = " + sqrnumber);
 
-// Можно сделать так
+/*Можно сделать так
 
-Console.WriteLine($"Квадрат Вашего числа = {sqrnumber}");
+  Console.WriteLine($"Квадрат Вашего числа = {sqrnumber}");
+*/  
