@@ -7,9 +7,9 @@ Console.WriteLine("Введите число2 ");
 int number2 = Convert.ToInt32(Console.ReadLine());
 
 
-int sqrnumber1 = number1 * number1;
+int sqrnumber2 = number2 * number2;
 
-if (number2 == sqrnumber1)
+if (number1 == sqrnumber2)
 {
     Console.WriteLine("Первое число является квадратом Вашего второго числа");
 }
